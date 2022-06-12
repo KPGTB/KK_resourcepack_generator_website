@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/kk_resourcepack_generator-website/static/css/main.073c9b0a.css",
-    "main.js": "/kk_resourcepack_generator-website/static/js/main.21c0cfc8.js",
-    "static/js/787.289ab3cc.chunk.js": "/kk_resourcepack_generator-website/static/js/787.289ab3cc.chunk.js",
-    "static/media/en_us.txt": "/kk_resourcepack_generator-website/static/media/en_us.147f9e33d07d7d79070b.txt",
-    "static/media/LICENSE.txt": "/kk_resourcepack_generator-website/static/media/LICENSE.8014178ca027463f25b8.txt",
-    "static/media/default.txt": "/kk_resourcepack_generator-website/static/media/default.4e3ff812a424f2108c65.txt",
-    "static/media/logo.svg": "/kk_resourcepack_generator-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/kk_resourcepack_generator-website/index.html",
-    "static/media/pack.mcmeta": "/kk_resourcepack_generator-website/static/media/pack.14600ed490d9cacb87c1.mcmeta",
-    "main.073c9b0a.css.map": "/kk_resourcepack_generator-website/static/css/main.073c9b0a.css.map",
-    "main.21c0cfc8.js.map": "/kk_resourcepack_generator-website/static/js/main.21c0cfc8.js.map",
-    "787.289ab3cc.chunk.js.map": "/kk_resourcepack_generator-website/static/js/787.289ab3cc.chunk.js.map"
+    "main.css": "/KK_resourcepack_generator_website/static/css/main.073c9b0a.css",
+    "main.js": "/KK_resourcepack_generator_website/static/js/main.1405fff2.js",
+    "static/js/787.289ab3cc.chunk.js": "/KK_resourcepack_generator_website/static/js/787.289ab3cc.chunk.js",
+    "static/media/en_us.txt": "/KK_resourcepack_generator_website/static/media/en_us.147f9e33d07d7d79070b.txt",
+    "static/media/LICENSE.txt": "/KK_resourcepack_generator_website/static/media/LICENSE.8014178ca027463f25b8.txt",
+    "static/media/default.txt": "/KK_resourcepack_generator_website/static/media/default.4e3ff812a424f2108c65.txt",
+    "static/media/logo.svg": "/KK_resourcepack_generator_website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/KK_resourcepack_generator_website/index.html",
+    "static/media/pack.mcmeta": "/KK_resourcepack_generator_website/static/media/pack.14600ed490d9cacb87c1.mcmeta",
+    "main.073c9b0a.css.map": "/KK_resourcepack_generator_website/static/css/main.073c9b0a.css.map",
+    "main.1405fff2.js.map": "/KK_resourcepack_generator_website/static/js/main.1405fff2.js.map",
+    "787.289ab3cc.chunk.js.map": "/KK_resourcepack_generator_website/static/js/787.289ab3cc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.21c0cfc8.js"
+    "static/js/main.1405fff2.js"
   ]
 }
