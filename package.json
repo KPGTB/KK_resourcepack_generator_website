@@ -2,7 +2,7 @@
   "name": "resourcepack-downloader",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kpgtb.github.io/kk_resourcepack_generator-website",
+  "homepage": "https://kpgtb.github.io/kk_resourcepack_generator-website/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
