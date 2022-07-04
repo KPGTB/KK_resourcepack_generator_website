@@ -107,6 +107,10 @@ class App extends React.Component {
       saveAs(blob, "resourcepack.zip")
     })
   }
+
+  componentDidMount() {
+    PrepareDownload()
+  }
 }
 
 export default App;
