@@ -23,10 +23,6 @@ import kkWaterFull from "./resourcepack/kkplugins/waterFull.png"
 import kkThirstMachineMenu from './resourcepack/kkplugins/thirstMachineMenu.png'
 import kkThirstMachineProgress from './resourcepack/kkplugins/thirstMachineProgress.png'
 
-// To Download
-import coreRes from './toDownload/core.zip'
-import coreThirstRes from './toDownload/corethirst.zip'
-
 class App extends React.Component {
 
   state = {
@@ -59,8 +55,8 @@ class App extends React.Component {
                 Download page<br/>
                 <p className="appHint">(Copy link and paste into config)</p>
                 <hr />
-                <a href={coreRes} download="resourcepack.zip">KKcore</a><br/>
-                <a href={coreThirstRes} download="resourcepack.zip">KKcore + KKthirst</a><br/>
+                <a href="https://download1083.mediafire.com/onv37h84fotg/5fhbp7zzzsggaue/core.zip" download="resourcepack.zip">KKcore</a><br/>
+                <a href="https://download1523.mediafire.com/gipam8ijxhtg/j71vk4gfahj5luo/corethirst.zip" download="resourcepack.zip">KKcore + KKthirst</a><br/>
               </div>
               : undefined
         }

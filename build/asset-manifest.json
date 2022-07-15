@@ -1,21 +1,19 @@
 {
   "files": {
     "main.css": "/KK_resourcepack_generator_website/static/css/main.21d25540.css",
-    "main.js": "/KK_resourcepack_generator_website/static/js/main.a0e7ca32.js",
+    "main.js": "/KK_resourcepack_generator_website/static/js/main.359098a8.js",
     "static/js/787.289ab3cc.chunk.js": "/KK_resourcepack_generator_website/static/js/787.289ab3cc.chunk.js",
-    "static/media/corethirst.zip": "/KK_resourcepack_generator_website/static/media/corethirst.75580d863df59140d13c.zip",
-    "static/media/core.zip": "/KK_resourcepack_generator_website/static/media/core.5d5ccd05d57f6d29f976.zip",
-    "static/media/en_us.txt": "/KK_resourcepack_generator_website/static/media/en_us.147f9e33d07d7d79070b.txt",
+    "static/media/en_us.txt": "/KK_resourcepack_generator_website/static/media/en_us.0783c8110de71bdf83cc.txt",
     "static/media/LICENSE.txt": "/KK_resourcepack_generator_website/static/media/LICENSE.8014178ca027463f25b8.txt",
-    "static/media/default.txt": "/KK_resourcepack_generator_website/static/media/default.4e3ff812a424f2108c65.txt",
+    "static/media/default.txt": "/KK_resourcepack_generator_website/static/media/default.793ff0fe1a8c50286f6a.txt",
     "index.html": "/KK_resourcepack_generator_website/index.html",
-    "static/media/pack.mcmeta": "/KK_resourcepack_generator_website/static/media/pack.14600ed490d9cacb87c1.mcmeta",
+    "static/media/pack.mcmeta": "/KK_resourcepack_generator_website/static/media/pack.77cc9576f788aa07fae3.mcmeta",
     "main.21d25540.css.map": "/KK_resourcepack_generator_website/static/css/main.21d25540.css.map",
-    "main.a0e7ca32.js.map": "/KK_resourcepack_generator_website/static/js/main.a0e7ca32.js.map",
+    "main.359098a8.js.map": "/KK_resourcepack_generator_website/static/js/main.359098a8.js.map",
     "787.289ab3cc.chunk.js.map": "/KK_resourcepack_generator_website/static/js/787.289ab3cc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.21d25540.css",
-    "static/js/main.a0e7ca32.js"
+    "static/js/main.359098a8.js"
   ]
 }
