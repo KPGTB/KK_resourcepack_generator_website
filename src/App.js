@@ -55,8 +55,8 @@ class App extends React.Component {
                 Download page<br/>
                 <p className="appHint">(Copy link and paste into config)</p>
                 <hr />
-                <a href="https://download1980.mediafire.com/z1vheup6wocg/mp65qwyifbtp8nv/core2.zip" download="resourcepack.zip">KKcore</a><br/>
-                <a href="https://download1476.mediafire.com/djsef6qxhqbg/vgijxhb64s3re5b/corethirst2.zip" download="resourcepack.zip">KKcore + KKthirst</a><br/>
+                <a href="https://github.com/KPGTB/kk_resourcepacks/raw/main/core2.zip" download="resourcepack.zip">KKcore</a><br/>
+                <a href="https://github.com/KPGTB/kk_resourcepacks/raw/main/corethirst2.zip" download="resourcepack.zip">KKcore + KKthirst</a><br/>
               </div>
               : undefined
         }
